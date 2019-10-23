@@ -5,6 +5,7 @@ Scripts
 *.dll
 *.exe
 *.pyd
+*._pth
 
 # Windows image file caches
 Thumbs.db
